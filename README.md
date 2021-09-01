@@ -1,6 +1,6 @@
 ### Hi there, I'm Hongzhuo CHEN 👋
 
-- 🍻 Junior at 🇨🇳 [SEU](https://www.seu.edu.cn/), _BSc in Computer Science_
+- 🍻 Junior at [SEU](https://www.seu.edu.cn/), Nanjing, China. _BSc in Computer Science_
 - ⚡ C++ / Python
 - 📫 How to reach me: [Mail](richardhzchen@gmail.com)
 - 🏃‍ Jogging, Swimming
