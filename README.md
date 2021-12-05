@@ -1,4 +1,8 @@
-# Hi there, I'm Hongzhuo CHEN 👋
+# Hongzhuo CHEN
+
+Undergraduate. Music Fan. Lifelong Student.
+You can also call me Richard.
+***
 
 - 🍻 Junior at [SEU](https://www.seu.edu.cn/), Nanjing, China. _BSc in Computer Science_
 - ⚡ C++ / Python
