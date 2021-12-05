@@ -1,6 +1,6 @@
 # Hongzhuo CHEN
 
-Undergraduate. Music Fan. Lifelong Student.
+Undergraduate. Music Fan. Lifelong Student.\
 You can also call me Richard.
 ***
 
