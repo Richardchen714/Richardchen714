@@ -4,7 +4,8 @@ Undergraduate. Music Fan. Lifelong Student.\
 You can also call me Richard.
 ***
 
-- 🍻 Junior at [SEU](https://www.seu.edu.cn/), Nanjing, China. _BSc in Computer Science_
+- 🍻 4th year undergraduate at [SEU](https://www.seu.edu.cn/), Nanjing, China. _BSc in Computer Science_
+- Currently an exchange student at [University of California, Irvine](https://uci.edu)
 - ⚡ C++ / Python
 - 📫 How to reach me: [richardhzchen@gmail.com](mailto:richardhzchen@gmail.com)
 - 🏃‍ Jogging, Swimming
